@@ -1,3 +1,3 @@
 # VonAnka-BitVault
 
-![von-anka](public/images/joakim.jpg)
+![von-anka](/public/joakim.jpg)
